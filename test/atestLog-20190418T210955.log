@@ -1,0 +1,40 @@
+21:10:20.100 [main] INFO  manage.TestBase - Start test: comparisonStrings
+21:10:20.114 [main] INFO  manage.TestBase - search   By.cssSelector: [data-title='Ноутбуки и компьютеры']
+21:10:20.244 [main] INFO  manage.TestBase - By.cssSelector: [data-title='Ноутбуки и компьютеры']  found
+21:10:20.365 [main] INFO  manage.TestBase - search   By.cssSelector: [href='https://rozetka.com.ua/notebooks/c80004/']
+21:10:20.402 [main] INFO  manage.TestBase - By.cssSelector: [href='https://rozetka.com.ua/notebooks/c80004/']  found
+21:10:20.403 [main] INFO  manage.TestBase - clickOn: [[ChromeDriver: chrome on XP (7e26f7c307a13e1b58b16ea4835a34a5)] -> css selector: [href='https://rozetka.com.ua/notebooks/c80004/']]
+21:10:25.950 [main] INFO  manage.TestBase - [[ChromeDriver: chrome on XP (7e26f7c307a13e1b58b16ea4835a34a5)] -> css selector: [href='https://rozetka.com.ua/notebooks/c80004/']] clicked
+21:10:25.950 [main] INFO  manage.TestBase - search   By.cssSelector: [title='Ноутбуки с SSD']
+21:10:28.724 [main] INFO  manage.TestBase - By.cssSelector: [title='Ноутбуки с SSD']  found
+21:10:28.725 [main] INFO  manage.TestBase - clickOn: [[ChromeDriver: chrome on XP (7e26f7c307a13e1b58b16ea4835a34a5)] -> css selector: [title='Ноутбуки с SSD']]
+21:10:39.377 [main] INFO  manage.TestBase - [[ChromeDriver: chrome on XP (7e26f7c307a13e1b58b16ea4835a34a5)] -> css selector: [title='Ноутбуки с SSD']] clicked
+21:10:39.378 [main] INFO  manage.TestBase - search   By.cssSelector: .g-i-tile-catalog
+21:10:39.407 [main] INFO  manage.TestBase - By.cssSelector: .g-i-tile-catalog  found
+21:10:41.516 [main] INFO  manage.TestBase - search   By.cssSelector: [title^='Добавить к']
+21:10:41.533 [main] INFO  manage.TestBase - By.cssSelector: [title^='Добавить к']  found
+21:10:45.842 [main] INFO  manage.TestBase - search   By.cssSelector: [title^='Добавить к']
+21:10:45.859 [main] INFO  manage.TestBase - By.cssSelector: [title^='Добавить к']  found
+21:10:48.075 [main] INFO  manage.TestBase - search   By.id: comparison-header
+21:10:48.116 [main] INFO  manage.TestBase - By.id: comparison-header  found
+21:10:48.117 [main] INFO  manage.TestBase - clickOn: [[ChromeDriver: chrome on XP (7e26f7c307a13e1b58b16ea4835a34a5)] -> id: comparison-header]
+21:10:51.625 [main] INFO  manage.TestBase - [[ChromeDriver: chrome on XP (7e26f7c307a13e1b58b16ea4835a34a5)] -> id: comparison-header] clicked
+21:10:51.626 [main] INFO  manage.TestBase - search   By.xpath: //span[contains(text(),'Сравнить эти товары')]
+21:10:52.042 [main] INFO  manage.TestBase - By.xpath: //span[contains(text(),'Сравнить эти товары')]  found
+21:10:52.042 [main] INFO  manage.TestBase - clickOn: [[ChromeDriver: chrome on XP (7e26f7c307a13e1b58b16ea4835a34a5)] -> xpath: //span[contains(text(),'Сравнить эти товары')]]
+21:10:54.358 [main] INFO  manage.TestBase - [[ChromeDriver: chrome on XP (7e26f7c307a13e1b58b16ea4835a34a5)] -> xpath: //span[contains(text(),'Сравнить эти товары')]] clicked
+21:10:54.358 [main] INFO  manage.TestBase - search   By.xpath: //div[@class='comparison-t-row']
+21:10:54.803 [main] INFO  manage.TestBase - By.xpath: //div[@class='comparison-t-row']  found
+21:10:54.804 [main] INFO  manage.TestBase - search   By.xpath: //div[@class='comparison-t-row']
+21:10:54.821 [main] INFO  manage.TestBase - By.xpath: //div[@class='comparison-t-row']  found
+21:10:55.214 [main] INFO  manage.TestBase - search   By.cssSelector: [class='m-tabs-link novisited']
+21:10:55.232 [main] INFO  manage.TestBase - By.cssSelector: [class='m-tabs-link novisited']  found
+21:10:55.232 [main] INFO  manage.TestBase - clickOn: [[ChromeDriver: chrome on XP (7e26f7c307a13e1b58b16ea4835a34a5)] -> css selector: [class='m-tabs-link novisited']]
+21:10:55.385 [main] INFO  manage.TestBase - [[ChromeDriver: chrome on XP (7e26f7c307a13e1b58b16ea4835a34a5)] -> css selector: [class='m-tabs-link novisited']] clicked
+21:10:55.385 [main] INFO  manage.TestBase - search   By.xpath: //div[@class='comparison-t-row']
+21:10:55.400 [main] INFO  manage.TestBase - By.xpath: //div[@class='comparison-t-row']  found
+21:10:55.400 [main] INFO  manage.TestBase - search   By.xpath: //div[@class='comparison-t-row']
+21:10:55.447 [main] INFO  manage.TestBase - By.xpath: //div[@class='comparison-t-row']  found
+21:10:55.589 [main] INFO  manage.TestBase - search   By.xpath: //div[@class='comparison-t']//div[@class='comparison-t-row']
+21:10:55.612 [main] INFO  manage.TestBase - By.xpath: //div[@class='comparison-t']//div[@class='comparison-t-row']  found
+21:10:55.617 [main] INFO  manage.TestBase - Stop test: comparisonStrings

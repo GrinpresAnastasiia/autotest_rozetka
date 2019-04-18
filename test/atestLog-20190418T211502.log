@@ -1,0 +1,36 @@
+21:15:16.322 [main] INFO  manage.TestBase - Start test: comparisonStrings
+21:15:16.333 [main] INFO  manage.TestBase - search   By.cssSelector: [data-title='Ноутбуки и компьютеры']
+21:15:16.380 [main] INFO  manage.TestBase - By.cssSelector: [data-title='Ноутбуки и компьютеры']  found
+21:15:16.455 [main] INFO  manage.TestBase - search   By.cssSelector: [href='https://rozetka.com.ua/notebooks/c80004/']
+21:15:16.497 [main] INFO  manage.TestBase - By.cssSelector: [href='https://rozetka.com.ua/notebooks/c80004/']  found
+21:15:16.498 [main] INFO  manage.TestBase - clickOn: [[ChromeDriver: chrome on XP (2bd241a2be160cd34c51dd854e1d32f0)] -> css selector: [href='https://rozetka.com.ua/notebooks/c80004/']]
+21:15:20.662 [main] INFO  manage.TestBase - [[ChromeDriver: chrome on XP (2bd241a2be160cd34c51dd854e1d32f0)] -> css selector: [href='https://rozetka.com.ua/notebooks/c80004/']] clicked
+21:15:20.662 [main] INFO  manage.TestBase - search   By.cssSelector: [title='Ноутбуки с SSD']
+21:15:20.698 [main] INFO  manage.TestBase - By.cssSelector: [title='Ноутбуки с SSD']  found
+21:15:20.698 [main] INFO  manage.TestBase - clickOn: [[ChromeDriver: chrome on XP (2bd241a2be160cd34c51dd854e1d32f0)] -> css selector: [title='Ноутбуки с SSD']]
+21:15:29.509 [main] INFO  manage.TestBase - [[ChromeDriver: chrome on XP (2bd241a2be160cd34c51dd854e1d32f0)] -> css selector: [title='Ноутбуки с SSD']] clicked
+21:15:29.509 [main] INFO  manage.TestBase - search   By.cssSelector: .g-i-tile-catalog
+21:15:29.549 [main] INFO  manage.TestBase - By.cssSelector: .g-i-tile-catalog  found
+21:15:31.673 [main] INFO  manage.TestBase - search   By.cssSelector: [title^='Добавить к']
+21:15:31.688 [main] INFO  manage.TestBase - By.cssSelector: [title^='Добавить к']  found
+21:15:35.974 [main] INFO  manage.TestBase - search   By.cssSelector: [title^='Добавить к']
+21:15:36.011 [main] INFO  manage.TestBase - By.cssSelector: [title^='Добавить к']  found
+21:15:38.151 [main] INFO  manage.TestBase - search   By.id: comparison-header
+21:15:38.177 [main] INFO  manage.TestBase - By.id: comparison-header  found
+21:15:38.178 [main] INFO  manage.TestBase - clickOn: [[ChromeDriver: chrome on XP (2bd241a2be160cd34c51dd854e1d32f0)] -> id: comparison-header]
+21:15:40.301 [main] INFO  manage.TestBase - [[ChromeDriver: chrome on XP (2bd241a2be160cd34c51dd854e1d32f0)] -> id: comparison-header] clicked
+21:15:40.302 [main] INFO  manage.TestBase - search   By.xpath: //span[contains(text(),'Сравнить эти товары')]
+21:15:40.939 [main] INFO  manage.TestBase - By.xpath: //span[contains(text(),'Сравнить эти товары')]  found
+21:15:40.939 [main] INFO  manage.TestBase - clickOn: [[ChromeDriver: chrome on XP (2bd241a2be160cd34c51dd854e1d32f0)] -> xpath: //span[contains(text(),'Сравнить эти товары')]]
+21:15:43.366 [main] INFO  manage.TestBase - [[ChromeDriver: chrome on XP (2bd241a2be160cd34c51dd854e1d32f0)] -> xpath: //span[contains(text(),'Сравнить эти товары')]] clicked
+21:15:43.367 [main] INFO  manage.TestBase - search   By.cssSelector: [class='m-tabs-link novisited']
+21:15:44.200 [main] INFO  manage.TestBase - By.cssSelector: [class='m-tabs-link novisited']  found
+21:15:44.201 [main] INFO  manage.TestBase - clickOn: [[ChromeDriver: chrome on XP (2bd241a2be160cd34c51dd854e1d32f0)] -> css selector: [class='m-tabs-link novisited']]
+21:15:44.401 [main] INFO  manage.TestBase - [[ChromeDriver: chrome on XP (2bd241a2be160cd34c51dd854e1d32f0)] -> css selector: [class='m-tabs-link novisited']] clicked
+21:15:44.401 [main] INFO  manage.TestBase - search   By.xpath: //div[@class='comparison-t-row']
+21:15:44.435 [main] INFO  manage.TestBase - By.xpath: //div[@class='comparison-t-row']  found
+21:15:44.436 [main] INFO  manage.TestBase - search   By.xpath: //div[@class='comparison-t-row']
+21:15:44.452 [main] INFO  manage.TestBase - By.xpath: //div[@class='comparison-t-row']  found
+21:15:44.586 [main] INFO  manage.TestBase - search   By.xpath: //div[@class='comparison-t']//div[@class='comparison-t-row']
+21:15:44.637 [main] INFO  manage.TestBase - By.xpath: //div[@class='comparison-t']//div[@class='comparison-t-row']  found
+21:15:44.642 [main] INFO  manage.TestBase - Stop test: comparisonStrings
